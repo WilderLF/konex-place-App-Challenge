@@ -42,3 +42,6 @@ npx opennextjs-cloudflare build && npx wrangler dev
 | GET | `/api/pixel?i=IDX` | Quién pintó un píxel y cuántas veces cambió |
 | GET | `/api/stats` | Totales y ranking |
 | GET | `/api/history?after=ID` | Historial compacto paginado para el timelapse |
+
+<img width="780" height="1688" alt="preview-mobile" src="https://github.com/user-attachments/assets/b31f9b2f-aa14-473e-81a8-cf5649c530a3" />
+<img width="1440" height="900" alt="preview-desktop" src="https://github.com/user-attachments/assets/f76aa2c6-48b8-462b-b910-37daef521e47" />
